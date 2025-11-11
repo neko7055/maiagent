@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=maiagent
+POSTGRES_USER=nXhiUmeMHuDwzHXlkfmecAQYvXkidUOn
+POSTGRES_PASSWORD=IR5XPM0eiusItmnPn6i7cxYaFN63liKgUw6o0B934WIosA16iTc6U7QRr1O6LuU9
